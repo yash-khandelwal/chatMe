@@ -1,2 +1,2 @@
 # chatMe
-##Realtime chat application using NodeJS and Socket.IO
+## Realtime chat application using NodeJS and Socket.IO
